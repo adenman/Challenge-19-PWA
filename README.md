@@ -20,4 +20,4 @@ The purpose of this application is to to able to edit text and have the ability 
 
 
 ## Link to finished website
-[N/A](https://challenge-19-pwa-1.onrender.com)
+https://challenge-19-pwa-1.onrender.com
